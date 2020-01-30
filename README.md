@@ -17,7 +17,8 @@ In order to perform any simulation, we need to place the folder "sensitivity_ana
          |  Scenario1    |    50        |        1        |     1000      |
          |  Scenario2    |    48.4      |        1        |     1000      |
          |  Scenario3    |    48.4      |        2        |     1000      |
-          
+         |  Scenario4    |    48.4      |        2        |     3000      |
+
 - Additional note: the graphs are not activated by default since it takes time to generate them
 
 ### Step 2: Perform simulations in Balmorel
