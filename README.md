@@ -62,3 +62,9 @@ In order to perform any simulation, we need to place the folder "sensitivity_ana
 - By default CPLEX solvers have the option "advind" activated. This options takes advantage of the previous solution to find the solution of the next scenario "faster". However, this process is only 
   faster if: a) the scenarios do not change to much (as is the case of the scenarios in the Global Sensitivity Analysis created with Morris Screening), and b) if the size of the model is relatively small.
   My experience so far is that with large models, it is more convenient to not activate the "advind" option, and running the barrier method 
+
+## References:
+Further details can be read in:
+J. Gea-Bermudez (2017), Modelling of Future Electricity Prices, MSc Thesis, https://findit.dtu.dk/en/catalog/2372004197
+## Acknowledgment:
+I would like to thank Amalia Rosa-Pizarro for providing me with most of the code.
