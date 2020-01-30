@@ -65,6 +65,6 @@ In order to perform any simulation, we need to place the folder "sensitivity_ana
 
 ## References:
 Further details can be read in:
-J. Gea-Bermudez (2017), Modelling of Future Electricity Prices, MSc Thesis, https://findit.dtu.dk/en/catalog/2372004197
+- J. Gea-Bermudez (2017), Modelling of Future Electricity Prices, MSc Thesis, https://findit.dtu.dk/en/catalog/2372004197
 ## Acknowledgment:
 I would like to thank Amalia Rosa-Pizarro for providing me with most of the code.
