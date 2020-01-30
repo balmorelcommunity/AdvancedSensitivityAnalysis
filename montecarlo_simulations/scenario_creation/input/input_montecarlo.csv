@@ -1,0 +1,5 @@
+﻿Parameter,Distribution_type,Lower_bound,Upper_bound,Mean,Standard_deviation
+test1,normal,,,1000,100
+test2,uniform,0,1,0.5,
+test3,uniform,200,500,350,
+test4,normal,,,50,20
